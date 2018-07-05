@@ -4,32 +4,33 @@ Food Zone is a free open source restaurant ordering and management system. Food 
 # Features
 User
 
-User Products viewing.
-User Login / Registration.
-User can order and choose quantity.
-User can view oncart orders.
-User can remove oncart orders.
-User can checkout order and serve as pending in admin side.
-User can track thier order status.
-User can cancel order
+1) User Products viewing.
+2) User Login / Registration.
+3) User can order and choose quantity.
+4) User can view oncart orders.
+5) User can remove oncart orders.
+6) User can checkout order and serve as pending in admin side.
+7) User can track thier order status.
+8) User can cancel order
+
 Admin
 
-Admin can monitor users activity.
-Admin can add,update,delete products.
-Admin can update product as able and unable. unable meaning it will not be available for ordering.
-Admin view orders and update order status.
-Admin can view total sales.
-Admin can view messages.
-Admin can message users through their email
+1) Admin can monitor users activity.
+2) Admin can add,update,delete products.
+3) Admin can update product as able and unable. unable meaning it will not be available for ordering.
+4) Admin view orders and update order status.
+5) Admin can view total sales.
+6) Admin can view messages.
+7) Admin can message users through their email
 
 # Languages and Frameworks used
-HTML
-CSS3
-JAVASCRIPT
-JQUERY
-BOOTSTRAP
-PHP
-MYSQL
+1) HTML
+2) CSS3
+3) JAVASCRIPT
+4) JQUERY
+5) BOOTSTRAP
+6) PHP
+7) MYSQL
 
 # How to Setup
 Download Xampp or Wamp local server.
