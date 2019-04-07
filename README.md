@@ -1,6 +1,7 @@
 # Food-Zone
 Food Zone is a free open source restaurant ordering and management system. Food Zone provides a professional and reliable platform for restaurants wanting to offer online ordering to their customers.
 
+
 # Features
 User
 
@@ -13,7 +14,7 @@ User
 7) User can track thier order status.
 8) User can cancel order
 
-Admin
+# Admin
 
 1) Admin can monitor users activity.
 2) Admin can add,update,delete products.
