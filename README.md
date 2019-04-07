@@ -36,3 +36,8 @@ User
 # How to Setup
 Download Xampp or Wamp local server.
 Start Xampp or Wamp local server.
+
+
+# Output
+<img src="food.JPG" alt="food">
+
