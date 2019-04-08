@@ -37,6 +37,7 @@ User
 Download Xampp or Wamp local server.
 Start Xampp or Wamp local server.
 
+</br>
 
 # Output
 <img src="food.JPG" alt="food">
